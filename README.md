@@ -87,7 +87,7 @@ amazon-listing-optimizer/
 ### **1️⃣ Clone Repository**
 
 ```bash
-git clone [https://github.com/your-username/amazon-listing-optimizer.git](https://github.com/ManishBE2313/amazon-listing-optimizer.git)
+git clone https://github.com/ManishBE2313/amazon-listing-optimizer.git
 cd amazon-listing-optimizer
 ```
 
