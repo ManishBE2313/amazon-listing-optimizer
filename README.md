@@ -1,3 +1,5 @@
+# amazon-listing-optimizer
+
 # 🚀 Amazon Listing Optimizer
 
 An AI-powered web application that fetches real Amazon product listings and generates optimized titles, bullet points, descriptions, and keyword suggestions using **Groq AI (Llama 3.3)**. All optimizations are stored in MySQL with full history tracking.
