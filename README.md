@@ -420,62 +420,11 @@ Amazon actively blocks web scraping. This project uses **Puppeteer** with realis
 - [ ] Full end-to-end flow works
 
 ***
-
-## 🎯 Success Criteria
-
-**Your app passes if:**
-- ✅ Fetches real Amazon India product data
-- ✅ AI optimizes content properly
-- ✅ Data saves into MySQL
-- ✅ History displays past records
-- ✅ Error handling works smoothly
-- ✅ UI looks clean and responsive
-- ✅ Code is structured and stable
-
-***
-
-## 📸 Screenshots
-
-*(Add your screenshots here)*
-
-1. Home page with optimization form
-2. Optimization in progress (loading state)
-3. Results showing original vs optimized
-4. History view with multiple records
-5. Database table with data
-
-***
-
-## 🚀 Deployment (Optional)
-
-### **Backend (Railway/Render)**
-1. Push code to GitHub
-2. Connect to Railway/Render
-3. Add environment variables
-4. Deploy
-
-### **Frontend (Vercel/Netlify)**
-1. Push to GitHub
-2. Connect to Vercel
-3. Deploy
-
-### **Database (PlanetScale/Railway)**
-1. Create MySQL database
-2. Update connection string in `.env`
-
-***
-
-## 📄 License
-
-MIT License - Feel free to use for learning and projects
-
-***
-
 ## 👨‍💻 Author
 
 **Your Name**  
-GitHub: [@your-username](https://github.com/your-username)  
-Email: your.email@example.com
+GitHub:(https://github.com/ManishBE2313/amazon-listing-optimizer.git)
+Email: singhmanish@231301@gmail.com
 
 ***
 
